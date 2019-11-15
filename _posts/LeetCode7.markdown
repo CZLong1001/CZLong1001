@@ -61,7 +61,7 @@ public:
 
 ## 测试 Submit
 
-![submit](http://ww1.sinaimg.cn/large/006Gc1hlly1g8yle6fh2mj30vp03zglm.jpg "")
+![submit](http://ww1.sinaimg.cn/large/006Gc1hlly1g8yle6fh2mj30vp03zglm.jpg)
 
 ## 分析
 
@@ -92,7 +92,7 @@ public:
 
 ## 改进Submit
 
-![submit](http://ww1.sinaimg.cn/large/006Gc1hlly1g8ylplg21nj30k602b3yc.jpg "")
+![submit](http://ww1.sinaimg.cn/large/006Gc1hlly1g8ylplg21nj30k602b3yc.jpg)
 
 ## 收获总结
 
